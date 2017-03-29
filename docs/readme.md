@@ -21,14 +21,10 @@
 
 ## 使用说明：
 
-1. [Demo_Server_Launcher](./Demo_Server_Launcher)
+1. [Demo_Server_Launcher  详细说明](./Demo_Server_Launcher)
 
    **运行 Demo_Server_Launcher.exe**
 
-
-![Demo_Server_Launcher_exe](.\Images\Demo_Server_Launcher_exe.png)
-
-​	**程序界面**
 
 ![Demo_Server_Launcher_ui](.\Images\Demo_Server_Launcher_ui.png)
 
@@ -42,15 +38,9 @@
 
   ​
 
-  **协议返回结果**
 
-![Demo_Server_Launcher_http_result](.\Images\Demo_Server_Launcher_http_result.png)
+2. [ServerMonitorDemo  详细说明](./ServerMonitorDemo)
 
-2. [ServerMonitorDemo](./ServerMonitorDemo)
-
-   **运行 ServerMonitorDemo.exe**
-
-![ServerMonitorDemo_exe](.\Images\ServerMonitorDemo_exe.png)
 
 ​	**程序界面**
 
@@ -74,13 +64,3 @@
 + 远程地址
 
   可以再设置一路其它符合SHSP协议的服务器地址（不带 */ShealthInfo* ），用以对比效果。
-
----
-
-​	==操作方法：==
-
-1. 修改远程地址 
-
-   如果需要修改 *远程服务器地址* ，可在远程地址后的文本框内填写服务器访问地址（如：http://127.0.0.1:9091 ）。
-
-   输入完后，需要点击 “Save” 按钮保存与起效。
