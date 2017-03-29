@@ -1,8 +1,8 @@
 # 上海电子信息职业技术学院-服务健康状态API原型
 
-[TOC]
 
-[GitHub IO主页]([https://sonicdx.github.io/SHSP_STIEI_PrototypeDemo/)
+[GitHub IO主页](https://sonicdx.github.io/SHSP_STIEI_PrototypeDemo/)
+
 [GitHub主页](https://github.com/sonicdx/SHSP_STIEI_PrototypeDemo/)
 
 ## 项目说明
