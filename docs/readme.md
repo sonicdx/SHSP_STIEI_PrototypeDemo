@@ -21,10 +21,9 @@
 
 ## 使用说明：
 
-1. [Demo_Server_Launcher  详细说明](./Demo_Server_Launcher)
+[Demo_Server_Launcher  详细说明](./Demo_Server_Launcher)
 
-   **运行 Demo_Server_Launcher.exe**
-
+**运行 Demo_Server_Launcher.exe**
 
 ![Demo_Server_Launcher_ui](.\Images\Demo_Server_Launcher_ui.png)
 
@@ -36,11 +35,9 @@
 
 + 模拟MemorySize数值：可以修改SHSP API返回数据里的 `Summary:MemorySize` 的数值。该功能可用以测试与调试使用。
 
-  ​
+  ---
 
-
-2. [ServerMonitorDemo  详细说明](./ServerMonitorDemo)
-
+[ServerMonitorDemo  详细说明](./ServerMonitorDemo)
 
 ​	**程序界面**
 
